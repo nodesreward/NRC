@@ -1,0 +1,6 @@
+usr/local/bin/nrc-qt usr/bin
+share/pixmaps/nrc32.xpm usr/share/pixmaps
+share/pixmaps/nrc16.xpm usr/share/pixmaps
+share/pixmaps/nrc128.png usr/share/pixmaps
+debian/nrc-qt.desktop usr/share/applications
+debian/nrc-qt.protocol usr/share/kde4/services/

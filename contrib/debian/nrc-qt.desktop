@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=NodesReward 
+Comment=NodesReward P2P Cryptocurrency
+Comment[fr]=NodesReward, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NodesReward, eşten eşe kriptografik sanal para birimi
+Exec=nrc-qt %u
+Terminal=false
+Type=Application
+Icon=nrc128
+MimeType=x-scheme-handler/nrc;
+Categories=Office;Finance;
+StartupWMClass=nrc-qt
